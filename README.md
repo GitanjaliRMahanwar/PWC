@@ -1,2 +1,5 @@
 # PWC
-This is Churn Dataset Project from PWC by Forage
+Projects of PWC by Forage:
+1. Churn Dataset
+2. Customer Retention
+3. Diversity and Inclusion
